@@ -5,6 +5,7 @@
 - Index Errors and Working with Nested Lists
 ## 🎮 Project: Rock, Paper, Scissors Game
 > _An interactive Rock, Paper, Scissors game built using Python's random module, lists, and control flow statements to simulate gameplay between the user and the computer._
+
 [📄 View Code](main.py)
 
 ### 👨‍💻 Features:
